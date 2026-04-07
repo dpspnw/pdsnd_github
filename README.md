@@ -17,7 +17,13 @@ new_york_city.csv
 ### Credits
 (https://github.com/udacity/pdsnd_github)
 
+<<<<<<< HEAD
 ### Changes
 1ste change to README
 change2
 change3
+=======
+### Refactoring changes
+
+first refactoring change
+>>>>>>> refactoring
