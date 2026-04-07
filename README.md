@@ -17,4 +17,6 @@ new_york_city.csv
 ### Credits
 (https://github.com/udacity/pdsnd_github)
 
+### Changes
+1ste change to README
 
