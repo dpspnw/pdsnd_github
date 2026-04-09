@@ -5,25 +5,22 @@ This project was created on 07.04.2026 as further submission of project.
 README.md was also created.
 
 ### Project Bikeshare
-Replace the Project Title
+Replaced the Project Title
 
 ### Description
 This is a project to learn the use of version control using git
 ### Files used
-bikeshare_starter-py
-.gitignore
-new_york_city.csv
+- bikeshare_starter.py
+- .gitignore
+- new_york_city.csv
 
 ### Credits
 (https://github.com/udacity/pdsnd_github)
 
-<<<<<<< HEAD
-### Changes
-1ste change to README
-change2
-change3
-=======
 ### Refactoring changes
 
-first refactoring change
->>>>>>> refactoring
+- first refactoring change
+- 2nd refactoring change
+
+### Resubmission changes
+- README was 
