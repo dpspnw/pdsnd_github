@@ -23,4 +23,4 @@ This is a project to learn the use of version control using git
 - 2nd refactoring change
 
 ### Resubmission changes
-- README was 
+- README corrected formatting
