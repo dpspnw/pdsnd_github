@@ -24,4 +24,4 @@ This is a project to learn the use of version control using git
 
 ### Resubmission changes
 - README corrected formatting
-- test if push is working
+- test if push is working 2 
